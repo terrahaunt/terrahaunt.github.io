@@ -1,0 +1,11 @@
+div#wrapper {
+	width: 600 px;
+	background-color: #DEDEDE;
+}
+h1 {
+	font-style: small-caps;
+}
+p {
+	text-align: justify;
+	font-family: "Times New Roman", serif;
+}
