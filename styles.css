@@ -1,6 +1,8 @@
 div#wrapper {
-	width: 600 px;
+	width: 800px;
 	background-color: #DEDEDE;
+	margin: auto;
+	padding: 25px;
 }
 h1 {
 	font-style: small-caps;
@@ -8,4 +10,5 @@ h1 {
 p {
 	text-align: justify;
 	font-family: "Times New Roman", serif;
+	font-size: 25px;
 }
